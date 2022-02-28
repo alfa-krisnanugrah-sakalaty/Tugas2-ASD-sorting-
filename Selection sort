@@ -1,0 +1,28 @@
+#include<stdio.h>
+int main()
+{
+   int k, r, hitung, temp, angka[25];
+
+   printf(" Masukan berapa angka yang ingin diinputkan : ");
+   scanf("%d",&hitung);
+
+    system("cls");
+   printf("Masukkan %d angka : \n", hitung);
+   for( k = 0; k < hitung; k++)
+      scanf("%d",&angka[k]);
+
+   for( k = 0; k < hitung; k++){
+      for(r=k+1;r<hitung;r++){
+         if(angka[k]>angka[r]){
+            temp=angka[k];
+            angka[k]=angka[r];
+            angka[r]=temp;
+         }}}
+
+   printf("Angka yang diurutkan : ");
+   for( k = 0; k < hitung; k++)
+      printf(" %d",angka[k]);
+      printf("\n");
+
+   return 0;
+}
