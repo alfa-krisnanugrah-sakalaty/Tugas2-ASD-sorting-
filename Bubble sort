@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int r = 0, x = 0, tmp;
+int a[100], n, r, d, swap;
+
+
+void bubble_sort(int a[], int n)
+{
+    for (r = 0; r < n; r++)
+        {
+        for (x = 0; x < n - r - 1; x++)
+            {
+            if (a[x] > a[x + 1])
+            {
+                tmp = a[x];
+                a[x] = a[x + 1];
+                a[x + 1] = tmp;
+}}}}
+
+int main()
+{
+  printf("Masukkan jumlah Urutan : ");
+  scanf("%d", &n);
+
+  system("cls");
+  printf("Masukan %d integer \n", n);
+    for (r = 0; r < n; r++)
+  scanf("%d", &a[r]);
+  bubble_sort(a, n);
+
+  printf("Menampilkan :\n");
+    for (r = 0; r < n; r++)
+  printf("%d\n", a[r]);
+
+  return 0;
+}
