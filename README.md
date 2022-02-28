@@ -8,7 +8,7 @@ Contoh macam-macam dari SORTING :
   Metode Bubble Sort diinspirasi oleh gelembung sabun yang ada di permukaan air. Karena berat jenis gelembung sabun lebih ringan daripada berat jenis air    maka gelembung sabun akan selalu mengapung.
   Prinsip pengapungan ini juga dipakai pada pengurutan gelembung. Elemen yang berharga paling kecil “diapungkan”, artinya diangkat ke atas (atau ke ujung paling kiri) melalui      pertukaran. Proses pengapungan ini dilakukan N kali langkah.
   
-2. <a href="">Selection Sort</a>.
+2. <a href="https://github.com/alfa-krisnanugrah-sakalaty/Tugas2-ASD-sorting-/blob/main/Selection%20sort">Selection Sort</a>.
 ![Screenshot (656)](https://user-images.githubusercontent.com/99227910/155925667-08aa5a7d-7215-49ac-93dc-6c98e285099a.png)
 
   Selection sort merupakan teknik sorting yang paling sederhana, hal pertama yang akan dilakukan algoritma selection sort adalah menemukan elemen terkecil dalam array kita dan   menukarnya (swap) dengan elemen yang ada di posisi pertama, kemudian algoritma ini akan mengulangi hal yang sama lagi yaitu mencari elemen terkecil yang ada di dalam array     dan kemudian menukarnya (swap) dengan elemen yang ada di posisi kedua (mengingat elemen di posisi pertama sudah berhasil kita sorting). Proses ini akan terus berlanjut sampai    semua elemen yang ada di dalam array telah berhasil kita sorting.
