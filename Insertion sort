@@ -1,0 +1,30 @@
+#include<stdio.h>
+int main()
+{
+   int x, y, hitung, temp, angka[25];
+
+   printf("Mau inputkan berapa angka : ");
+   scanf("%d",&hitung);
+
+   system("cls");
+   printf("Masukkan %d angka : \n", hitung);
+   for(x=0;x<hitung;x++)
+      scanf("%d",&angka[x]);
+
+   for( x = 1; x < hitung; x++){
+      temp=angka[x];
+      y = x - 1;
+      while((temp<angka[y])&&(y>=0)){
+         angka[y+1]=angka[y];
+         y = y - 1;
+      }
+      angka[y+1]=temp;
+   }
+
+   printf("Urutan angka yang Diinputkan : ");
+   for( x = 0; x < hitung; x++)
+      printf(" %d",angka[x]);
+      printf("\n");
+
+   return 0;
+}
