@@ -18,3 +18,5 @@ Contoh macam-macam dari SORTING :
 ![Screenshot (658)](https://user-images.githubusercontent.com/99227910/155931658-5ea9032c-6b03-4c50-ba0c-b53e3be56dd5.png)
 
   Insertion Sort merupakan sebuah teknik pengurutan dengan cara membandingkan dan mengurutkan dua data pertama pada array, kemudian membandingkan data para array berikutnya       apakah sudah berada di tempat semestinya. Algorithma insertion sort seperti proses pengurutan kartu yang berada di tangan kita, selembar demi selembar kartu yang diambil dan   disisipkan di posisi yang seharusnya.
+
+4. <a href="">Selection Sort <nim genap> </a>.
