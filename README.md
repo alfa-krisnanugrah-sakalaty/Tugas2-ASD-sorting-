@@ -21,4 +21,4 @@ Contoh macam-macam dari SORTING :
 
 4. <a href="https://github.com/alfa-krisnanugrah-sakalaty/Tugas2-ASD-sorting-/blob/main/Selection%20sort%20(nim%20genap)">Selection Sort (nim genap) </a>.
 
-5.  <a href="">Insertion Sort (nim genap)</a>.
+5.  <a href="https://github.com/alfa-krisnanugrah-sakalaty/Tugas2-ASD-sorting-/blob/main/Insertion%20sort%20(nim%20genap)">Insertion Sort (nim genap)</a>.
