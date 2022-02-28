@@ -3,7 +3,7 @@
 # SORTING
 Sorting (pengurutan) adalah proses mengatur sekumpulan objek menurut urutan atau susunan tertentu. Urutan objek tersebut dapat menaik (ascending), yaitu urutan objek yang disusun mulai dari Nilai terkecil hingga terbesar atau menurun (descending), yaitu urutan objek yang disusun mulai dari Nilai terbesar hingga terkecil.
 Contoh macam-macam dari SORTING :
-1. <a href="">Bubble Sort</a>.
+1. <a href="https://github.com/alfa-krisnanugrah-sakalaty/Tugas2-ASD-sorting-/blob/main/Bubble%20sort">Bubble Sort</a>.
     
   Metode Bubble Sort diinspirasi oleh gelembung sabun yang ada di permukaan air. Karena berat jenis gelembung sabun lebih ringan daripada berat jenis air    maka gelembung sabun akan selalu mengapung.
   Prinsip pengapungan ini juga dipakai pada pengurutan gelembung. Elemen yang berharga paling kecil “diapungkan”, artinya diangkat ke atas (atau ke ujung paling kiri) melalui      pertukaran. Proses pengapungan ini dilakukan N kali langkah.
